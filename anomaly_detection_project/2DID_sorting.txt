@@ -1,0 +1,28 @@
+SerialNumber
+Site
+TestResult
+hbin#
+hbin
+sbin#
+sbin
+startTime
+stopTime
+testTime(s)
+DeviceName
+HandlerID
+TesterID
+TestPGM
+LotID
+ProcessID
+OperatorID
+Loadboard#
+RetestCode
+ToteID
+Temperature
+TEST_2D_SCAN
+POWERIO_TM_PP1V8_HPA (V)
+POWERIO_TM_PP1V0_R2_ANA (V)
+POWERIO_TM_PP1V8_IO_DCP (V)
+POWERIO_TM_PP1V0_R2_SOC (V)
+POWERIO_TM_PP1V2_R2 (V)
+POWERIO_TM_PP1V2_1V8_VDDIOB (V)
