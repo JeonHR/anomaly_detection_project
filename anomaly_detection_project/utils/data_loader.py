@@ -14,7 +14,7 @@ def load_data(data_file, filter_file=None):
     """
     
     # ✅ CSV 로드 (첫 행 제거)
-    df = pd.read_csv(data_file, skiprows=1)
+    df = pd.read_csv(data_file)
 
     # ✅ Upper/Lower Limit 추출 및 데이터프레임에서 제거
     upper_limits = df.iloc[0].to_dict()  # Upper Limit을 딕셔너리로 변환
